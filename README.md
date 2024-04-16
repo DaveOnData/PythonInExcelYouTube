@@ -1,5 +1,5 @@
 # Python in Excel YouTube
-Repository of Microsoft Excel workbooks for my various YouTube videos/tutorials.
+Repository of Microsoft Excel workbooks for my various [YouTube videos/tutorials](https://youtube.com/@DaveOnData).
 
 The code in these Excel workbooks are offered AS-IS. No warranty about the code is provided and should not be assumed. USE AT YOUR OWN RISK.
 
